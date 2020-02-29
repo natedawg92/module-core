@@ -1,0 +1,11 @@
+@font-face {
+    font-family: $icons__font-name;
+    src: url('#{$icons__font-path}.eot');
+    src: url('#{$icons__font-path}.eot?#iefix') format('embedded-opentype'),
+    url('#{$icons__font-path}.woff2') format('woff2'),
+    url('#{$icons__font-path}.woff') format('woff'),
+    url('#{$icons__font-path}.ttf') format('truetype'),
+    url('#{$icons__font-path}.svg##{$icons__font-name}') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
