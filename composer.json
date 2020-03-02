@@ -20,5 +20,6 @@
         "psr-4": {
             "NathanDay\\Core\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }
